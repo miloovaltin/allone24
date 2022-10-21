@@ -1,17 +1,16 @@
-
 {
-"name": "allone24",
-"theme": "allone24",
-"version": "2.5.2",
-"description": "allone24 สมัครสมาชิกเว็บสล็อตเว็บตรง สมาชิกเยอะ แจกเครดิตฟรี",
-"keywords": [
-"allone24",
-"allone24 เครดิตฟรี",
-"allone24 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/allone24",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "allone24",
+  "theme": "allone24",
+  "version": "2.6.0",
+  "description": "allone24 สมัครสมาชิกเว็บสล็อตเว็บตรง สมาชิกเยอะ แจกเครดิตฟรี",
+  "keywords": [
+    "allone24",
+    "allone24 เครดิตฟรี",
+    "allone24 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/allone24",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
